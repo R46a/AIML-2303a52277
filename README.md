@@ -11,3 +11,6 @@ https://github.com/R46a/AIML-2303a52277/blob/main/AIML__Ass_03.ipynb
 
 LAB 4
 https://github.com/R46a/AIML-2303a52277/blob/main/LAB%2004.ipynb
+
+LAB 5
+https://github.com/R46a/AIML-2303a52277/blob/main/AIML_Lab_5.ipynb
