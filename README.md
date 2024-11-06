@@ -23,3 +23,6 @@ https://github.com/R46a/AIML-2303a52277/blob/main/AIML-lab_07_SVM.ipynb
 
 LAB 8
 https://github.com/R46a/AIML-2303a52277/blob/main/Copy_of_AIML_ASS_08.ipynb
+
+LAB 9
+https://github.com/R46a/AIML-2303a52277/blob/main/AIML_ASS_09.ipynb
