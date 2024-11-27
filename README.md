@@ -29,3 +29,4 @@ https://github.com/R46a/AIML-2303a52277/blob/main/AIML_ASS_09.ipynb
 
 LAB 10
 https://github.com/R46a/AIML-2303a52277/blob/main/AIML_LAB_10(KMean).ipynb
+
